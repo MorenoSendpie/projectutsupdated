@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/project/app/src/main/res/drawable-ldpi/ic_baseline_looks_two_24.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/project/app/src/main/res/drawable/category_background3.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/project/app/src/main/res/layout/activity_card_list.xml" value="0.18" />
+        <entry key="..\:/AndroidStudioProjects/project/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/project/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/project/app/src/main/res/layout/activity_show_detail.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/project/app/src/main/res/layout/activity_verify_location.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/project/app/src/main/res/layout/viewholder_card.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/project/app/src/main/res/layout/viewholder_cat.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/project/app/src/main/res/layout/viewholder_popular.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
